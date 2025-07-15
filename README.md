@@ -1,1 +1,2 @@
-# Thesis-Machine-Learning-for-Size-recommendation
+# Thesis---Machine-Learning-for-Size-recommendation
+Thesis progress 
